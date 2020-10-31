@@ -19,6 +19,7 @@ PRODUCT_PACKAGES += \
     AccentColorBlueOverlay \
     FontArbutusSourceOverlay \
     FontArvoLatoOverlay \
+    FontGoogleSansOverlayOverlay \
     FontRubikRubikOverlay \
     IconPackCircularPixelLauncherOverlay \
     IconPackCircularPixelThemePickerOverlay \
